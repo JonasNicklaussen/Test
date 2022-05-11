@@ -32,5 +32,7 @@ public  class Main
             reihe += 1/pow(i, 2); //So sieht es besser aus!
         }
         System.out.println(reihe);
+        
+        //Master update 1
     }
 }
